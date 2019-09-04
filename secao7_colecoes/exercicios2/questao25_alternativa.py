@@ -107,7 +107,7 @@ while continua:
                         break
 
                     # Caso dê velha na diagonal inversa
-                    elif jogo[0][2] == 'x' and jogo[1][1] == 'x' and jogo[2][0] == i:
+                    elif jogo[0][2] == 'x' and jogo[1][1] == 'x' and jogo[2][0] == 'x':
                         print("\nO jogador 'x' venceu")
                         continua = False
                         break

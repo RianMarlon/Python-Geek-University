@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e75b99b-640a-42a9-9184-8e18f67c6841" name="Default Changelist" comment="" />
+    <list default="true" id="bd179a7b-5571-42a5-8525-1433bc533fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/aulas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/RianM.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25_alternativa.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25_alternativa.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1PsOE7WCoVZnUhLJ0iNSsqIsoE6" />
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
-  </component>
+  <component name="ProjectId" id="1QLlV26a5mrkaO4dQgiCHEG3YZL" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,7 +34,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="questao39" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao25_alternativa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -36,11 +42,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao7_colecoes/exercicios1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao7_colecoes/exercicios2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao7_colecoes/exercicios1/questao39.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25_alternativa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.questao39" />
+        <item itemvalue="Python.questao25_alternativa" />
       </list>
     </recent_temporary>
   </component>
@@ -60,11 +66,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6e75b99b-640a-42a9-9184-8e18f67c6841" name="Default Changelist" comment="" />
-      <created>1566659222136</created>
+      <changelist id="bd179a7b-5571-42a5-8525-1433bc533fce" name="Default Changelist" comment="" />
+      <created>1567557777865</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566659222136</updated>
+      <updated>1567557777865</updated>
     </task>
     <servers />
   </component>
@@ -73,9 +79,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
