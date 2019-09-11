@@ -19,11 +19,11 @@ if valor_venda >= 100_000:
     comissao = 700 + (valor_venda * 0.16)
     print("Comissão que deverá ser paga ao vendedor: R$%.2f" % comissao)
 
-elif valor_venda >= 80_000 and valor_venda < 100_000:
+elif (valor_venda >= 80_000) and (valor_venda < 100_000):
     comissao = 650 + (valor_venda * 0.14)
     print("Comissão que deverá ser paga ao vendedor: R$%.2f" % comissao)
 
-elif (valor_venda) >= 60_000 and (valor_venda < 80_000):
+elif (valor_venda >= 60_000) and (valor_venda < 80_000):
     comissao = 600 + (valor_venda * 0.14)
     print("Comissão que deverá ser paga ao vendedor: R$%.2f" % comissao)
 

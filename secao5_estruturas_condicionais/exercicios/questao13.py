@@ -9,9 +9,10 @@ nota1 = float(input("Digite a primeira nota do aluno: "))
 nota2 = float(input("Digite a segunda nota do aluno: "))
 nota3 = float(input("Digite a terceira nota do aluno: "))
 
-if ((nota1 >= 0.0) and (nota1 <= 100.0)) and ((nota2 >= 0.0) and (nota2 <= 100.0)) and ((nota3 >= 0.0) and (nota3 <= 200)):
+if ((nota1 >= 0.0) and (nota1 <= 100.0)) and ((nota2 >= 0.0)
+   and (nota2 <= 100.0)) and ((nota3 >= 0.0) and (nota3 <= 200)):
 
-    media = (nota1 + nota2 + nota3) / (1 + 1+ 2)
+    media = (nota1 + nota2 + nota3) / (1 + 1 + 2)
 
     print("\nA média do aluno é %.1f" % media)
 

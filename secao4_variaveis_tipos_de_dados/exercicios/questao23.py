@@ -6,6 +6,6 @@ M o comprimento em metros.
 
 metros = float(input("Digite o valor de comrpimento em metros: "))
 
-jardas = metros/0.91
+jardas = metros / 0.91
 
 print(f"\nO valor do comprimento em jardas é {jardas}")

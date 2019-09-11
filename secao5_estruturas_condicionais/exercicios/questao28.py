@@ -8,8 +8,6 @@ digitado pelo usuário:
     (d) Aritmética: (x + y + z) / 3
 """
 
-from math import ceil
-
 x = int(input("Digite o primeiro valor: "))
 y = int(input("Digite o segundo valor: "))
 z = int(input("Digite o terceiro valor: "))

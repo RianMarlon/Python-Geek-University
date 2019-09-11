@@ -7,6 +7,6 @@ da seguinte fórmula: V = r * raio² * altura, onde r = 3.141592
 altura_cilindro = float(input("Digite a altura do cilindro: "))
 raio_cilindro = float(input("Digite o raio do cilindro: "))
 
-volume = 3.141592 * (raio_cilindro **2) * altura_cilindro
+volume = 3.141592 * (raio_cilindro ** 2) * altura_cilindro
 
 print(f"\nO volume do cilindro:\n3.141592 * {raio_cilindro}² * {altura_cilindro} = {volume}")

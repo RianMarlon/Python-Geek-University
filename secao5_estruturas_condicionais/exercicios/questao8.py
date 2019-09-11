@@ -10,8 +10,8 @@ nota2 = float(input("Digite s segunda nota do aluno: "))
 
 print()
 if (nota1 >= 0.00) and (nota1 <= 10) and (nota2 >= 0.0) and (nota2 <= 10):
-        media = (nota1 + nota2) / 2
-        print("Média: %.2f" % media)
+    media = (nota1 + nota2) / 2
+    print("Média: %.2f" % media)
 
 else:
     print("A nota não possue um valor válido")

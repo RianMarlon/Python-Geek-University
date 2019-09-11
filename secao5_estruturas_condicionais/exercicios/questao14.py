@@ -13,7 +13,8 @@ exame_final = float(input("Digite a nota do exame final do aluno: "))
 
 
 print()
-if ((trabalho_laboratorio >= 0) and (trabalho_laboratorio <= 20)) and ((avaliacao_semestral >= 0) and (avaliacao_semestral <= 30)) and ((exame_final >= 0) and (exame_final <= 50)):
+if ((trabalho_laboratorio >= 0) and (trabalho_laboratorio <= 20)) and ((avaliacao_semestral >= 0)
+   and (avaliacao_semestral <= 30)) and ((exame_final >= 0) and (exame_final <= 50)):
 
     media = (trabalho_laboratorio + avaliacao_semestral + exame_final) / (2 + 3 + 5)
     print("A média do aluno é %.1f" % media)
