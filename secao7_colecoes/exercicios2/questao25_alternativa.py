@@ -11,6 +11,8 @@ Exemplo:
     x  |  o  |  x
     o  |  o  |  o
     o  |  o  |  o
+
+OBS: PREFERI FAZER UM JOGO DA VELHA COMPLETO
 """
 
 jogo = []

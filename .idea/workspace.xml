@@ -3,24 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bd179a7b-5571-42a5-8525-1433bc533fce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao1.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao10.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao16.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao2.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao23.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao3.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao36.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao36.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao4.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao48.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao48.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao50.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/questao50.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao4_variaveis_tipos_de_dados/exercicios/tipo_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao13.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao14.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao28.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao28.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao36.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao36.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao8.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao6_estrutura_repeticao/exercicios/questao13.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao6_estrutura_repeticao/exercicios/questao13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao6_estrutura_repeticao/exercicios/questao18.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao6_estrutura_repeticao/exercicios/questao18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao37.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25_alternativa.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25_alternativa.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,71 +36,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.questao36">
-    <configuration name="questao13" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="aulas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao13.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="questao14" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="aulas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="questao36" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="aulas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao36.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="questao6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.questao37">
+    <configuration name="questao27 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao27_alternativa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +70,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao27_alternativa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="questao28" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aulas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao8_funcoes/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao28.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="questao29" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aulas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao8_funcoes/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao29.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="questao37" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aulas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao37.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.questao36" />
-        <item itemvalue="Python.questao14" />
-        <item itemvalue="Python.questao13" />
-        <item itemvalue="Python.questao9" />
-        <item itemvalue="Python.questao6" />
+        <item itemvalue="Python.questao37" />
+        <item itemvalue="Python.questao29" />
+        <item itemvalue="Python.questao28" />
+        <item itemvalue="Python.questao27 (1)" />
+        <item itemvalue="Python.questao27_alternativa" />
       </list>
     </recent_temporary>
   </component>

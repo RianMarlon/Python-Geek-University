@@ -6,7 +6,7 @@
     - 5ª hora e seguintes - R$2,00 cada
 
 O número de horas a pagar é sempre inteiro e arredondado por execesso. Deste modo,
-quem estacioanr durante 61 minutos pagará por duas horas, que é o mesmo que pagaria
+quem estacionar durante 61 minutos pagará por duas horas, que é o mesmo que pagaria
 se tivesse permanecido 120 minutos. Os momentos de chegada ao parque e partida deste
 sao apresentados na forma de pares de inteiros, representando horas e minutos.
 Por exemplo, o par 12,50 representará 'dez para a uma da parte'. Pretende-se
@@ -25,58 +25,48 @@ partida_hora = int(input("Digite a hora de partida: "))
 partida_minuto = int(input("Digite o minuto da partida: "))
 
 intervalo_hora = 0
-intervalo_minuto = 0
 
 print()
+
+# Validando a hora de chegada e a hora de saida
 if (chegada_hora >= 0) and (chegada_hora < 24) and (partida_hora >= 0) and (partida_hora < 24):
 
-    if partida_hora < chegada_hora:
+    if (chegada_minuto >= 0) and (chegada_minuto < 60) and (partida_minuto >= 0) and (partida_minuto < 60):
 
-        intervalo_hora = 24 + (partida_hora - chegada_hora)
-        if (chegada_minuto >= 0) and (chegada_minuto < 60) and (partida_minuto >= 0) and (partida_minuto < 60):
+        # Nesse caso ele passou apenas alguns minutos, então foi 1 hora arredondando
+        if partida_hora == chegada_hora and partida_minuto > chegada_minuto:
+            intervalo_hora += 1
+
+        # Nesse caso aqui sempre será 23 horas e 1 ou mais minutos, então arredonda para 24
+        elif partida_hora == chegada_hora and partida_minuto < chegada_minuto:
+            intervalo_hora = 24
+
+        elif partida_hora > chegada_hora:
+            intervalo_hora = partida_hora - chegada_hora
 
             if chegada_minuto >= partida_minuto:
-                intervalo_minuto = chegada_minuto - partida_minuto
-
-                if intervalo_minuto > 0:
-                    intervalo_hora += 1
-                    intervalo_minuto = 0
+                pass
 
             else:
-                intervalo_minuto = partida_minuto - chegada_minuto
-
-                if intervalo_minuto > 0:
-                    intervalo_hora += 1
-                    intervalo_minuto = 0
+                intervalo_hora += 1
 
         else:
-            print("Minutos fora do intervalo de 0 - 59")
+            intervalo_hora = 24 - (chegada_hora - partida_hora)
+
+            if chegada_minuto >= partida_minuto:
+                pass
+
+            else:
+                intervalo_hora += 1
 
     else:
-        intervalo_hora = partida_hora - chegada_hora
-        if (chegada_minuto >= 0) and (chegada_minuto < 60) and (partida_minuto >= 0) and (partida_minuto < 60):
-
-            if chegada_minuto >= partida_minuto:
-                intervalo_minuto = chegada_minuto - partida_minuto
-
-                if intervalo_minuto > 0:
-                    intervalo_hora += 1
-                    intervalo_minuto = 0
-
-            else:
-                intervalo_minuto = partida_minuto - chegada_minuto
-
-                if intervalo_minuto > 0:
-                    intervalo_hora += 1
-                    intervalo_minuto = 0
-
-        else:
-            print("Minuto fora do intervalo de 0 à 59")
+        print("Minutos fora do intervalo de 0 à 59")
 
 else:
     print("Hora fora do intervalo de 0 à 23")
 
 
+# Quantidade que deve ser paga pela quantidade de horas passada no parque
 if intervalo_hora > 0:
 
     print(f"Tempo permanecido no estacionamento: {intervalo_hora} horas ")
@@ -92,6 +82,3 @@ if intervalo_hora > 0:
 
     else:
         print("Erro")
-
-else:
-    print("A hora passada no estacionamento não pode ser 0")
