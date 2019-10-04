@@ -18,6 +18,7 @@ class Calculadora:
 class CalculadoraCientifica:
     pass
 
+
 [2] - Utile nomes em minúsculo, separados por underlines para funções e váriaveis
 Ex.
 def soma():

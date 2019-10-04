@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd179a7b-5571-42a5-8525-1433bc533fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/aulas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aulas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao37.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao37.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25_alternativa.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25_alternativa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao3_introducao/dir_e_help.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao3_introducao/dir_e_help.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao3_introducao/pep8.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao3_introducao/pep8.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QLlV26a5mrkaO4dQgiCHEG3YZL" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\geek university\aulas\secao8_funcoes\exercicios" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -36,8 +45,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.questao37">
-    <configuration name="questao27 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.questao73">
+    <configuration name="questao69" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao27.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao69.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao27_alternativa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao70" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao27_alternativa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao70.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao28" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao71" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao28.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao71.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao29" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao72" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao29.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao72.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao37" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao73" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao8_funcoes/exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao37.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao73.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.questao37" />
-        <item itemvalue="Python.questao29" />
-        <item itemvalue="Python.questao28" />
-        <item itemvalue="Python.questao27 (1)" />
-        <item itemvalue="Python.questao27_alternativa" />
+        <item itemvalue="Python.questao73" />
+        <item itemvalue="Python.questao71" />
+        <item itemvalue="Python.questao72" />
+        <item itemvalue="Python.questao70" />
+        <item itemvalue="Python.questao69" />
       </list>
     </recent_temporary>
   </component>
@@ -177,5 +186,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao37.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao8_funcoes/exercicios/questao48.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao8_funcoes/exercicios/questao69.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

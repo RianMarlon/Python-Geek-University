@@ -11,3 +11,7 @@ para determinado tipo de dado ou variável
 
 help(tipo de dado/variável.propriedade)
 """
+
+import math
+
+print(help(math.factorial))
