@@ -22,13 +22,8 @@
   </component>
   <component name="ProjectId" id="1QLlV26a5mrkaO4dQgiCHEG3YZL" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\dev\geek university\aulas\secao8_funcoes\exercicios" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../curso em video" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,8 +37,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.treinando_lambdas">
-    <configuration name="livia_questao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.treinando_tratamento_de_erros (1)">
+    <configuration name="questao28" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +46,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao8_funcoes/exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/livia_questao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="map" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao29" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao10_lambdas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao8_funcoes/exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao10_lambdas/map.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao8_funcoes/exercicios/questao29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treinando_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao37" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao9_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao9_comprehensions/treinando_comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao37.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treinando_lambdas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="treinando_tratamento_de_erros (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao10_lambdas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao11_tratando_erros" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao10_lambdas/treinando_lambdas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao11_tratando_erros/treinando_tratamento_de_erros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="treinando_tratamento_de_erros" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao10_lambdas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao11_debugando_tratando_erros" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao10_lambdas/zip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao11_debugando_tratando_erros/treinando_tratamento_de_erros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.treinando_lambdas" />
-        <item itemvalue="Python.zip" />
-        <item itemvalue="Python.livia_questao" />
-        <item itemvalue="Python.map" />
-        <item itemvalue="Python.treinando_comprehensions" />
+        <item itemvalue="Python.treinando_tratamento_de_erros (1)" />
+        <item itemvalue="Python.treinando_tratamento_de_erros" />
+        <item itemvalue="Python.questao37" />
+        <item itemvalue="Python.questao29" />
+        <item itemvalue="Python.questao28" />
       </list>
     </recent_temporary>
   </component>
@@ -183,26 +178,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/secao5_estruturas_condicionais/exercicios/questao37.py</url>
-          <line>76</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/secao8_funcoes/exercicios/questao48.py</url>
-          <line>47</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/secao8_funcoes/exercicios/questao69.py</url>
-          <line>51</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
