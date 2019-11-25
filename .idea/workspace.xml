@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd179a7b-5571-42a5-8525-1433bc533fce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/aulas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aulas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao10_lambdas/treinando_lambdas.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao10_lambdas/treinando_lambdas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao7_colecoes/conjuntos.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/conjuntos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao7_colecoes/exercicios1/questao10.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/exercicios1/questao10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao15.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao16.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao17.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao19.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao19.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +32,13 @@
   </component>
   <component name="ProjectId" id="1QLlV26a5mrkaO4dQgiCHEG3YZL" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../curso em video" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\developer\Python\geek university\aulas\secao13_leitura_escrita_de_arquivos\exercicio" />
       <recent name="C:\developer\Python\geek university\aulas\secao12_modulos_e_pacotes\teste" />
       <recent name="C:\developer\Python\geek university\aulas\secao12_modulos_e_pacotes\teste2" />
     </key>
@@ -44,8 +55,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.treinando_modulo_e_pacotes">
-    <configuration name="funcoes (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.questao29">
+    <configuration name="mudar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao12_modulos_e_pacotes/teste" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao12_modulos_e_pacotes/teste/funcoes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/mudar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcoes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao26" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao12_modulos_e_pacotes/teste" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\developer\Python\geek university\aulas\secao12_modulos_e_pacotes\teste2\funcoes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/questao26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treinando_modulo_e_pacotes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao27" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao12_modulos_e_pacotes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao12_modulos_e_pacotes/treinando_modulo_e_pacotes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/questao27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treinando_tratamento_de_erros (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao28" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao11_tratando_erros" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao11_tratando_erros/treinando_tratamento_de_erros.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/questao28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treinando_tratamento_de_erros" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao29" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +148,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao11_debugando_tratando_erros" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao11_debugando_tratando_erros/treinando_tratamento_de_erros.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/questao29.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="questao3" type="PythonConfigurationType" factoryName="Python">
+      <module name="aulas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/questao3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.treinando_modulo_e_pacotes" />
-        <item itemvalue="Python.funcoes (1)" />
-        <item itemvalue="Python.funcoes" />
-        <item itemvalue="Python.treinando_tratamento_de_erros (1)" />
-        <item itemvalue="Python.treinando_tratamento_de_erros" />
+        <item itemvalue="Python.questao29" />
+        <item itemvalue="Python.mudar" />
+        <item itemvalue="Python.questao27" />
+        <item itemvalue="Python.questao28" />
+        <item itemvalue="Python.questao26" />
       </list>
     </recent_temporary>
   </component>
@@ -185,5 +217,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/questao19.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

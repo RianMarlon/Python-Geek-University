@@ -286,7 +286,7 @@
 # notas3 = [5.9, 8.6, 5.5, 6.7, 8.8, 9.2, 9.3, 4.7, 5.7]
 # notas4 = [4.2, 7.0, 6.7, 4.0, 8.0, 6.9, 9.0, 5.5, 5.5]
 #
-# alunos = ["Pedro Henrique", "Aquila Menezes", "Vitor Emanuel", "Lucas Ravel",
+# alunos.txt = ["Pedro Henrique", "Aquila Menezes", "Vitor Emanuel", "Lucas Ravel",
 #           "Raimundo Neto", "Rian Marlon", "Carlos Vinicius", "Pierre Neves",
 #           "Welligton Almeida"]
 
@@ -295,12 +295,12 @@
 
 # 1° Forma
 # media_final = {aluno[0]: round(mean([aluno[1], aluno[2], aluno[3], aluno[4]]), 1)
-#                for aluno in zip(alunos, notas1, notas2, notas3, notas4)}
+#                for aluno in zip(alunos.txt, notas1, notas2, notas3, notas4)}
 
 # print(media_final)
 
 # 2° Forma
-# media_final2 = zip(alunos, map(lambda nota: round(mean(nota), 1), zip(notas1, notas2, notas3, notas4)))
+# media_final2 = zip(alunos.txt, map(lambda nota: round(mean(nota), 1), zip(notas1, notas2, notas3, notas4)))
 #
 # print(dict(media_final2))
 

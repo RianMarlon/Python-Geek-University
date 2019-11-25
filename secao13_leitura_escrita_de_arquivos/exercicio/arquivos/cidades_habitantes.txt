@@ -1,0 +1,15 @@
+Sobral, CE                              147000
+Fortaleza, CE                           2643000
+São Paulo, SP                           12180000
+Rio de Janeiro, RJ                      6320000
+Salvador, BA                            2677000
+Recife, PE                              1625580
+Morada Nova, CE                         61713
+Brasilia, DF                            2431000
+Vitória, ES                             3885000
+Florianópolis, SC                       421000
+Porto Alegre, RS                        1481018
+Belo Horizonte, MG                      2513450
+Manaus, AM                              2094390
+Curitiba, PR                            1893996
+

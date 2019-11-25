@@ -1,6 +1,6 @@
 """
 15) Leia uma matri 5z x 10 que se refere respostas de 10 quetões de
-múltipla escolha, referentes a 5 alunos. Leia também um vetor de
+múltipla escolha, referentes a 5 alunos.txt. Leia também um vetor de
 10 posições contendo o gabarito de respostas que podem ser a, b, c ou d.
 Seu programa deverá comparar as respostas de cada candidato com o gabarito
 e emitir um vetor denominado resultado, contendo a pontuação correspondente a cada

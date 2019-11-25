@@ -170,7 +170,7 @@ unicos2 = estudantes_python | estudantes_java
 
 print(unicos2)
 
-# Veja que alguns alunos que estudam Python também estudam Java.
+# Veja que alguns alunos.txt que estudam Python também estudam Java.
 
 # Gerar um conjunto de estudantes que estão am ambos os cursos
 
