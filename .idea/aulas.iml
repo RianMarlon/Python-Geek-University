@@ -5,6 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/secao12_modulos_e_pacotes/teste" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/secao12_modulos_e_pacotes/geek" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/secao13_leitura_escrita_de_arquivos/exercicio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/secao16_orientacao_a_objetos/exercicios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/secao16_orientacao_a_objetos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/secao13_leitura_escrita_de_arquivos" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (k37)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

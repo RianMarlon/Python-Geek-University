@@ -23,6 +23,9 @@ def verificar_texto(texto):
     except ValueError:
         return False
 
+    except TypeError:
+        return False
+
 
 def verificar_telefone(telefone):
     """Função que recebe um nome e verifica se o mesmo é válido ou não.
