@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd179a7b-5571-42a5-8525-1433bc533fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/abstracao_encapsulamento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/atributos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/metodos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/objetos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/poo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aulas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aulas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/verificacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/verificacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao4.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +29,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\developer\Python\geek university\aulas\secao16_orientacao_a_objetos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\developer\Python\geek university\aulas\secao13_leitura_escrita_de_arquivos\exercicio" />
       <recent name="C:\developer\Python\geek university\aulas\secao12_modulos_e_pacotes\teste" />

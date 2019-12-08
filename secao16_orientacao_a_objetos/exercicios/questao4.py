@@ -56,7 +56,7 @@ class Televisao:
         try:
             if not type(novo_volume) == bool and not type(novo_volume) == float:
 
-                if (int(novo_volume) > 0) and (int(novo_volume) <= 100):
+                if (int(novo_volume) >= 0) and (int(novo_volume) <= 100):
                     self.__volume = int(novo_volume)
 
                 else:
@@ -92,7 +92,7 @@ class Televisao:
         try:
             if not type(nova_quantidade_canais) == bool and not type(nova_quantidade_canais) == float:
 
-                if int(nova_quantidade_canais) >= 0 and int(nova_quantidade_canais) >= self.__canal:
+                if int(nova_quantidade_canais) > 0 and int(nova_quantidade_canais) >= self.__canal:
                     self.__quantidade_canais = int(nova_quantidade_canais)
 
                 else:
