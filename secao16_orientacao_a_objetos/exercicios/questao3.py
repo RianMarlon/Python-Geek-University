@@ -68,42 +68,6 @@ class Elevador:
         """Retorna a quantidade de andar(es) que tem/têm no prédio"""
         return self.__total_andares
 
-    def set_andar(self, novo_andar):
-        """Recebe um valor do tipo int que será o novo valor do atributo
-        de instância 'andar'"""
-        try:
-            if not type(novo_andar) == bool and not type(novo_andar) == float:
-
-                if (int(novo_andar) >= 0) and (int(novo_andar) <= self.__total_andares):
-                    self.__andar = int(novo_andar)
-
-                else:
-                    raise ValueError
-
-            else:
-                raise ValueError
-
-        except ValueError:
-            print("\nAndar inválido")
-
-    def set_quantidade_pessoas(self, novo_quantidade_pessoas):
-        """Recebe um valor do tipo int que será o novo valor do atributo
-        de instância 'quantidade_pessoas'"""
-        try:
-            if not type(novo_quantidade_pessoas) == bool and not type(novo_quantidade_pessoas) == float:
-
-                if (int(novo_quantidade_pessoas) >= 0) and (int(novo_quantidade_pessoas) <= self.__capacidade):
-                    self.__quantidade_pessoas = int(novo_quantidade_pessoas)
-
-                else:
-                    raise ValueError
-
-            else:
-                raise ValueError
-
-        except ValueError:
-            print("\nQuantidade inválida")
-
     def set_capacidade(self, nova_capacidade):
         """Recebe um valor do tipo int que será o novo valor do atributo
          de instância 'capacidade'"""
@@ -199,8 +163,6 @@ if __name__ == "__main__":
     print(f"Quantidade de pessoas no Elevador 1: {elevador1.get_quantidade_pessoas()}")
     print(f"Total de andares do prédio onde se encontra o Elevador 1: {elevador1.get_total_andares()}")
 
-    elevador1.set_andar(8)
-    elevador1.set_quantidade_pessoas(6)
     elevador1.set_capacidade(9)
     elevador1.set_total_andares(11)
 
@@ -211,8 +173,8 @@ if __name__ == "__main__":
 
     elevador2 = Elevador(14, 18)
 
-    elevador2.set_quantidade_pessoas(10)
-    elevador2.set_andar(14)
+    [elevador2.entra() for _ in range(10)]
+    [elevador2.sobe() for _ in range(14)]
 
     print(f"\nAndar do Elevador 2: {elevador2.get_andar()}")
     print(f"Capacidade do Elevador 2: {elevador2.get_capacidade()}")

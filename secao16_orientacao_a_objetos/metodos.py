@@ -12,7 +12,7 @@ e Métodos Estáticos.
 # O método dunder init __init__ é um método especial chamado de construtor
 e sua função é construir o objeto a partir da classe.
 
-OBS: Todo elemento em ýthon que inicia e finaliza ocm duplo underline é chamado de dunder
+OBS: Todo elemento em Python que inicia e finaliza com duplo underline é chamado de dunder
 (Double Underline)
 
 OBS: Os métodos/funções dunder em Python são chamados de métodos mágicos.

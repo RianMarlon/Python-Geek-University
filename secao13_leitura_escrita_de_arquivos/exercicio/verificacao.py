@@ -38,7 +38,7 @@ def verificar_telefone(telefone):
 
         valido = False
 
-        for caractere in telefone:
+        for caractere in str(telefone):
 
             if str(caractere) in caracteres_validos:
                 valido = True
@@ -128,5 +128,33 @@ def verificar_data(dia, mes, ano):
         return False
 
 
+def verificar_endereco(endereco):
+    """Função que recebe um endereço e verifica se o mesmo é válido ou não.
+    Caso o endereço seja válido retorna True, caso contrário retorna False"""
+
+    caracteres_invalidos = ["?", ">", "<", "}", "{", "[", "]",
+                            "+", "*", "@", "!", "%", "¨", "´", "`", "^", "~",
+                            "=", "(", ")", "&", "_", "$", "#"]
+
+    try:
+
+        for caractere in endereco:
+
+            if str(caractere) in caracteres_invalidos:
+                return False
+
+        return True
+
+    except AttributeError:
+        return False
+
+    except ValueError:
+        return False
+
+    except TypeError:
+        return False
+
+
 if __name__ == "__main__":
+
     pass

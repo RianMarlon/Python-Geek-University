@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd179a7b-5571-42a5-8525-1433bc533fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/aulas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aulas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao4.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/verificacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/verificacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao3.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao16_orientacao_a_objetos/metodos.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/metodos.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,17 +28,18 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao16_orientacao_a_objetos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao17_heranca_polimorfismo" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\developer\Python\geek university\aulas\secao16_orientacao_a_objetos" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\developer\Python\geek university\aulas\secao13_leitura_escrita_de_arquivos\exercicio" />
       <recent name="C:\developer\Python\geek university\aulas\secao12_modulos_e_pacotes\teste" />
       <recent name="C:\developer\Python\geek university\aulas\secao12_modulos_e_pacotes\teste2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\developer\Python\geek university\aulas\secao17_heranca_polimorfismo" />
+      <recent name="C:\developer\Python\geek university\aulas\secao16_orientacao_a_objetos" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -50,8 +54,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.questao4">
-    <configuration name="questao1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.questao31">
+    <configuration name="questao27" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao28" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao25_alternativa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao29" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,32 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao7_colecoes/exercicios2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao7_colecoes/exercicios2/questao25_alternativa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="questao3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="aulas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="questao30" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +147,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao30.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="questao31" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aulas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao31.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.questao4" />
-        <item itemvalue="Python.questao3 (1)" />
-        <item itemvalue="Python.questao25_alternativa" />
-        <item itemvalue="Python.questao2" />
-        <item itemvalue="Python.questao1" />
+        <item itemvalue="Python.questao31" />
+        <item itemvalue="Python.questao30" />
+        <item itemvalue="Python.questao29" />
+        <item itemvalue="Python.questao28" />
+        <item itemvalue="Python.questao27" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +224,11 @@
           <url>file://$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/questao19.py</url>
           <line>34</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao14.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
