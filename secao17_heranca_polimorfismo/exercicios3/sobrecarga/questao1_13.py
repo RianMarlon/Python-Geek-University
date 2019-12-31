@@ -130,12 +130,12 @@ class Pessoa:
 
 class TestaPessoa:
 
-    def __init__(self):
+    def __init__(self, codigo=1, nome="Marcos", idade=17):
 
         pessoa1 = Pessoa()
-        pessoa1.codigo = 1
-        pessoa1.nome = "Marcos"
-        pessoa1.idade = 17
+        pessoa1.codigo = codigo
+        pessoa1.nome = nome
+        pessoa1.idade = idade
 
         pessoa1.exibe()
         pessoa1.exibe(1)
@@ -152,5 +152,6 @@ if __name__ == "__main__":
     pessoa1.exibe()
 
     teste1 = TestaPessoa()
+    teste2 = TestaPessoa(8, "Áquila", 27)
 
 
