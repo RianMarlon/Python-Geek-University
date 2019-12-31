@@ -8,7 +8,7 @@ final. Use nomes com no máximo 40 caracteres. Se o nome não contém 40 caracte
 complete com espaço em branco.
 """
 
-from verificacao import verificar_texto
+from verificacao import verificar_nome
 
 try:
     qtd_alunos = int(input("Digite a quantidade de alunos: "))
@@ -21,7 +21,7 @@ try:
 
             nome = str(input(f"\nDigite o nome do aluno {aluno+1}: ")).strip().title()
 
-            if verificar_texto(nome):
+            if verificar_nome(nome):
 
                 # Caso nome fornecido tenha 40 caracteres ou mais, irá pegar apenas os primeiros
                 # 40 caracteres do nome, caso o nome não contenha 40 caracteres ele irá preencher até

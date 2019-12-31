@@ -6,7 +6,7 @@ atributos marcha indica em que a marcha a Moto se encontra no momento, sendo
 representado de forma inteira, onde 0 - neutro, 1 - primeira, 2 - segunda, etc.
 """
 
-from secao13_leitura_escrita_de_arquivos.exercicio.verificacao import verificar_texto
+from verificacao import verificar_nome
 
 
 class Veiculo:
@@ -21,7 +21,7 @@ class Veiculo:
                 self.__marca = marca.strip().title()
                 self.__modelo = modelo.strip().title()
 
-                if verificar_texto(cor):
+                if verificar_nome(cor):
                     self.__cor = cor.strip().title()
 
                 else:
@@ -95,7 +95,7 @@ class Veiculo:
 
         try:
 
-            if type(nova_cor) == str and verificar_texto(nova_cor):
+            if type(nova_cor) == str and verificar_nome(nova_cor):
 
                 if self.__cor.strip() == "":
                     self.__cor = nova_cor.strip().title()

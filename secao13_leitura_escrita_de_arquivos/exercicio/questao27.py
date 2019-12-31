@@ -17,7 +17,7 @@ opções deste menu, crie uma função específica
 em disco, pois será salvo automaticamente
 """
 
-from verificacao import verificar_texto
+from verificacao import verificar_nome
 
 
 def informacoes_turma(arquivo):
@@ -88,7 +88,7 @@ def inserir_notas_alunos(arquivo):
                 nome = str(input("Insira o nome do aluno: ")).strip().title()
                 print("-" * 117)
 
-                if verificar_texto(nome):
+                if verificar_nome(nome):
 
                     nota1 = float(input("Insira a primeira nota do aluno: "))
                     print("-" * 117)

@@ -5,7 +5,7 @@ os valores de todos os atributos.
 """
 
 from verificacao import (verificar_telefone,
-                         verificar_texto,
+                         verificar_nome,
                          verificar_endereco)
 
 
@@ -15,7 +15,7 @@ class Pessoa:
         """Construtor que recebe um nome, endereço e telefone da pessoa,
         verificando se os mesmos são válidos ou não"""
 
-        if verificar_texto(nome) and verificar_endereco(endereco) and verificar_telefone(telefone):
+        if verificar_nome(nome) and verificar_endereco(endereco) and verificar_telefone(telefone):
             self.__nome = nome.strip().title()
             self.__telefone = telefone if isinstance(telefone, int) else telefone.strip()
             self.__endereco = endereco.strip().title()
@@ -43,7 +43,7 @@ class Pessoa:
     def nome(self, novo_nome):
         """Recebe um valor que irá ser o novo valor do atributo de instância 'nome'"""
 
-        if verificar_texto(novo_nome):
+        if verificar_nome(novo_nome):
 
             self.__nome = novo_nome
 

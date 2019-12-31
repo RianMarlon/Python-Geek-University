@@ -4,7 +4,7 @@ de cada um dos 5 funcionários de uma empresa e armazene-os no arquivo "emp.txt"
 Cada linha do arquivo corresponde aos dados de um funcionário.
 """
 
-from verificacao import verificar_texto
+from verificacao import verificar_nome
 
 try:
 
@@ -14,7 +14,7 @@ try:
 
             profissao = str(input("Digite a profissão do funcionário: ")).strip().title()
 
-            if verificar_texto(profissao):
+            if verificar_nome(profissao):
                 tempo_servico = abs(int(input("Digite o tempo de serviço do funcionário(em anos): ")))
                 print()
 

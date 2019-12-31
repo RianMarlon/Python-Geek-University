@@ -12,7 +12,7 @@ realizar as seguintes operações:
 """
 
 from secao16_orientacao_a_objetos.exercicios.questao1 import Pessoa
-from secao13_leitura_escrita_de_arquivos.exercicio.verificacao import verificar_texto
+from verificacao import verificar_nome
 
 
 class Agenda:
@@ -28,7 +28,7 @@ class Agenda:
     def remove_pessoa(self, nome):
         """Remove a pessoa de acordo com o nome passo por parâmetro"""
 
-        if verificar_texto(nome):
+        if verificar_nome(nome):
 
             nova_lista = []
 
@@ -54,7 +54,7 @@ class Agenda:
     def busca_pessoa(self, nome):
         """Retorna a posição onde se encontra a pessoa com o nome passado por parâmetro"""
 
-        if verificar_texto(nome):
+        if verificar_nome(nome):
 
             for posicao in range(len(self.__pessoas)):
 

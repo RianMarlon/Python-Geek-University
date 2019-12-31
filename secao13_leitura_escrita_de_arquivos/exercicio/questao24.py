@@ -6,8 +6,6 @@ um relatório geral e um de produtos não disponíveis. Armazene os dados
 em arquivo binário.
 """
 
-from verificacao import verificar_texto
-
 
 def inserir(arquivo):
 
@@ -49,7 +47,7 @@ def inserir(arquivo):
                 descricao = str(input("Digite a descrição do produto: ")).strip()
                 print("-" * 117)
 
-                if verificar_texto(descricao):
+                if descricao.strip() != "":
 
                     quantidade_atual = abs(int(input("Digite a quantidade atual do produto: ")))
                     print("-" * 117)

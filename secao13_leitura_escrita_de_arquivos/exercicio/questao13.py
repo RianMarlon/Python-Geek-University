@@ -4,7 +4,7 @@ para cadastro, e crie um arquivo com essas informações, uma por linha. O usuá
 finaliza a entrada com '0' para o telefone.
 """
 
-from verificacao import verificar_texto, verificar_telefone
+from verificacao import verificar_nome, verificar_telefone
 
 try:
 
@@ -12,7 +12,7 @@ try:
 
         nome = str(input("Digite um nome: ")).strip().title()
 
-        if verificar_texto(nome) and len(nome) > 0:
+        if verificar_nome(nome) and len(nome) > 0:
 
             telefone = str(input("Digite um número de telefone: ")).strip()
             print()

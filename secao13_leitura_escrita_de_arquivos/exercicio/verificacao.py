@@ -1,6 +1,6 @@
 
 
-def verificar_texto(texto):
+def verificar_nome(nome):
     """Função que recebe um nome e verifica se o mesmo é válido ou não.
     Caso o nome seja válido retorna True, caso contrário retorna False"""
 
@@ -10,7 +10,7 @@ def verificar_texto(texto):
 
     try:
 
-        for caractere in texto:
+        for caractere in nome:
 
             if str(caractere).isnumeric() or str(caractere) in caracteres_invalidos:
                 return False

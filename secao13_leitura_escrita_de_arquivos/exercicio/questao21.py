@@ -5,7 +5,7 @@ a respeito desses alunos: nome do aluno e sua nota final. Use nomes com no máxi
 40 caracteres. Em seguida, salve os dados dos alunos em um arquivo binário.
 Por fim, leia o arquivo e mostre o nome do aluno com a maior nota.
 """
-from verificacao import verificar_texto
+from verificacao import verificar_nome
 
 try:
 
@@ -20,7 +20,7 @@ try:
 
             nome = str(input(f"\nDigite o nome do aluno {i+1}: ")).strip().title()
 
-            if verificar_texto(nome):
+            if verificar_nome(nome):
 
                 novo_nome = nome[0:40:1] if len(nome) >= 40 else nome + " " * (40 - len(nome))
 

@@ -19,7 +19,7 @@ mais de um registro no arquivo com mesmos valores nos campos codigo_vendedor e m
 
 from os import path, remove
 
-from verificacao import verificar_texto
+from verificacao import verificar_nome
 
 
 def criar_arquivo(arquivo):
@@ -65,7 +65,7 @@ def inserir_registro(arquivo):
             nome_vendedor = str(input("Insira o nome do vendedor: ")).strip().title()
             print(f"{'-' * 117}")
 
-            if verificar_texto(nome_vendedor):
+            if verificar_nome(nome_vendedor):
 
                 valor_venda = abs(float(input("Insira o valor da venda: ")))
                 print(f"{'-' * 117}")

@@ -17,7 +17,7 @@ com os dados contidos neste arquivo binário.
 
 from datetime import date
 
-from verificacao import verificar_texto, verificar_telefone
+from verificacao import verificar_nome, verificar_telefone
 
 
 def inserir(arquivo):
@@ -59,7 +59,7 @@ def inserir(arquivo):
                 nome = str(input("Digite o nome do contato: ")).strip().title()
                 print("-" * 117)
 
-                if verificar_texto(nome):
+                if verificar_nome(nome):
 
                     telefone = str(input(f"Digite o número do telefone de {nome}: "))
                     print("-" * 117)
@@ -244,7 +244,7 @@ def pesquisar_por_nome(arquivo):
                 nome = str(input("Digite o nome do contato: ")).strip().title()
                 print("-" * 117)
 
-                if verificar_texto(nome):
+                if verificar_nome(nome):
 
                     existe = False
 

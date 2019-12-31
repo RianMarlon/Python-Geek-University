@@ -4,7 +4,7 @@ nome, idade e altura. Crie os métodos públicos necessários para sets e gets e
 também um método para imprimir os dados de uma pessoa.
 """
 
-from secao13_leitura_escrita_de_arquivos.exercicio.verificacao import verificar_texto
+from secao13_leitura_escrita_de_arquivos.exercicio.verificacao import verificar_nome
 
 
 class Pessoa:
@@ -15,7 +15,7 @@ class Pessoa:
 
         try:
 
-            if verificar_texto(nome):
+            if verificar_nome(nome):
                 self.__nome = str(nome).strip().title()
 
                 if not (type(idade) == bool) and not(type(altura) == bool):
@@ -58,7 +58,7 @@ class Pessoa:
     def set_nome(self, nome_novo):
         """Recebe um valor do tipo string que irá ser o novo valor do atributo de instância 'nome'"""
 
-        if verificar_texto(nome_novo):
+        if verificar_nome(nome_novo):
             self.__nome = str(nome_novo).strip().title()
 
         else:

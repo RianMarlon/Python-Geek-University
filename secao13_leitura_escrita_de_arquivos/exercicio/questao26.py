@@ -12,7 +12,7 @@ OBS: Como no curso ainda não foi abordado classes, então usarei o modo padrão
 
 """
 
-from verificacao import verificar_data, verificar_texto
+from verificacao import verificar_data, verificar_nome
 
 
 def inserir_alunos(arquivo):
@@ -42,7 +42,7 @@ def inserir_alunos(arquivo):
 
                 sobrenome = str(input("Insira o sobrenome do aluno: ")).strip().title()
 
-                if verificar_texto(sobrenome):
+                if verificar_nome(sobrenome):
 
                     dd = abs(int(input("Insira o dia de nascimento do aluno: ")))
                     mm = abs(int(input("Insira o mês de nascimento do aluno: ")))
