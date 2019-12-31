@@ -48,7 +48,7 @@ class Pessoa:
             self.__nome = novo_nome
 
         else:
-            print("\nValor inválido")
+            print("\nNome inválido")
 
     @telefone.setter
     def telefone(self, novo_telefone):
@@ -58,7 +58,7 @@ class Pessoa:
             self.__telefone = novo_telefone
 
         else:
-            print("\nValor inválido")
+            print("\nTelefone inválido")
 
     @endereco.setter
     def endereco(self, novo_endereco):
@@ -68,7 +68,7 @@ class Pessoa:
             self.__endereco = novo_endereco
 
         else:
-            print("\nValor inválido")
+            print("\nEndereço inválido")
 
     def imprimir(self):
         """Imprimi todos os valores de todos os atributos"""

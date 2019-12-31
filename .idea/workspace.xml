@@ -4,9 +4,7 @@
     <list default="true" id="bd179a7b-5571-42a5-8525-1433bc533fce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/aulas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aulas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/verificacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/verificacao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao3.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao16_orientacao_a_objetos/metodos.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/metodos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao1.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,14 +30,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\developer\Python\geek university\aulas\secao17_heranca_polimorfismo" />
+      <recent name="C:\developer\Python\geek university\aulas\secao16_orientacao_a_objetos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\developer\Python\geek university\aulas\secao13_leitura_escrita_de_arquivos\exercicio" />
       <recent name="C:\developer\Python\geek university\aulas\secao12_modulos_e_pacotes\teste" />
       <recent name="C:\developer\Python\geek university\aulas\secao12_modulos_e_pacotes\teste2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\developer\Python\geek university\aulas\secao17_heranca_polimorfismo" />
-      <recent name="C:\developer\Python\geek university\aulas\secao16_orientacao_a_objetos" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -54,8 +52,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.questao31">
-    <configuration name="questao27" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.questao1_a_8">
+    <configuration name="questao1_a_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios2/heranca" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao27.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios2/heranca/questao1_a_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.questao1_a_8" />
         <item itemvalue="Python.questao31" />
         <item itemvalue="Python.questao30" />
         <item itemvalue="Python.questao29" />
         <item itemvalue="Python.questao28" />
-        <item itemvalue="Python.questao27" />
       </list>
     </recent_temporary>
   </component>
