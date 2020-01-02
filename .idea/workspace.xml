@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd179a7b-5571-42a5-8525-1433bc533fce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/secao18_arquivos_csv_e_json/lendo_csv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios3/sobrecarga/questao1_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios3/sobrecarga/questao1_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao1.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao16_orientacao_a_objetos/exercicios/questao1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao17_heranca_polimorfismo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -35,6 +36,7 @@
       <recent name="C:\developer\Python\geek university\aulas\secao12_modulos_e_pacotes\teste2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\developer\Python\geek university\aulas\secao18_arquivos_csv_e_json" />
       <recent name="C:\developer\Python\geek university\aulas\secao17_heranca_polimorfismo" />
       <recent name="C:\developer\Python\geek university\aulas\secao16_orientacao_a_objetos" />
     </key>
@@ -51,8 +53,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.questao1_13">
-    <configuration name="questao1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.treinando_csv_json">
+    <configuration name="conhecendo_pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json/conhecendo_pickle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao1_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="escrevendo_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios3/sobrecarga" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios3/sobrecarga/questao1_13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json/escrevendo_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao1_a_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="json_pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios2/heranca" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios2/heranca/questao1_a_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json/json_pickle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao29" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lendo_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao13_leitura_escrita_de_arquivos/exercicio/questao29.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json/lendo_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao31" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="treinando_csv_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao17_heranca_polimorfismo/exercicios1/questao31.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao18_arquivos_csv_e_json/treinando_csv_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.questao1_13" />
-        <item itemvalue="Python.questao29" />
-        <item itemvalue="Python.questao1_a_8" />
-        <item itemvalue="Python.questao1" />
-        <item itemvalue="Python.questao31" />
+        <item itemvalue="Python.treinando_csv_json" />
+        <item itemvalue="Python.json_pickle" />
+        <item itemvalue="Python.conhecendo_pickle" />
+        <item itemvalue="Python.escrevendo_csv" />
+        <item itemvalue="Python.lendo_csv" />
       </list>
     </recent_temporary>
   </component>

@@ -4,7 +4,7 @@ nome, idade e altura. Crie os métodos públicos necessários para sets e gets e
 também um método para imprimir os dados de uma pessoa.
 """
 
-from secao13_leitura_escrita_de_arquivos.exercicio.verificacao import verificar_nome
+from verificacao import verificar_nome
 
 
 class Pessoa:
