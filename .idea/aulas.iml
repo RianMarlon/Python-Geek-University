@@ -10,8 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/secao13_leitura_escrita_de_arquivos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/secao17_heranca_polimorfismo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/secao17_heranca_polimorfismo/exercicios2/heranca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/secao20_testes_python" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (k37)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
